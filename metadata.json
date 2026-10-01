@@ -1,0 +1,6 @@
+{
+  "name": "Smart Task Manager",
+  "description": "Collaborative task management system with real-time dependency resolution, blocking alerts, and user assignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

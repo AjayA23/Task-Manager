@@ -1,0 +1,13 @@
+# Backend - Express & Node.js
+express>=4.18.0
+cors>=2.8.5
+dotenv>=16.0.0
+
+# Development
+nodemon>=3.0.0
+
+# Frontend - Next.js & React
+# next>=14.0.0
+# react>=18.2.0
+# react-dom>=18.2.0
+# lucide-react>=0.300.0
