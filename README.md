@@ -3,7 +3,7 @@
 A full-stack collaborative task management application built with **Next.js / React** for the frontend and **Node.js + Express.js** for the backend, using **in-memory data storage**.
 
 ---
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Application-success?style=for-the-badge)](https://task-manager-1-jfrs.onrender.com)
 ## 📁 Project Structure
 
 ```text
